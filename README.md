@@ -47,3 +47,6 @@ The `AuctionEngine` contract has been deployed in the Ropsten Ethereum testing n
 
 Feel free to interact with it, or check more details in the Etherscan overview:
 https://ropsten.etherscan.io/address/0xd61f183ffadd5e0f5a1734e7d40724455a9e620a
+
+
+# My Note for the Auction Engine Repo
